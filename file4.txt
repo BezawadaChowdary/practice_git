@@ -1,9 +1,9 @@
-file4.txt is edited
-=======
+qruwiyavsuhf
+merge coflict
 fhwiruvbhflakjwr
 qwrvbshf
 wqefjksv
 
 
 
-task coflict changed in firstbranch 
+task coflict changed in firstbranch
