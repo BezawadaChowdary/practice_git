@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fhwiruvbhflakjwr
 qwrvbshf
 wqefjksv
@@ -5,3 +6,6 @@ wqefjksv
 
 
 task coflict changed in firstbranch 
+=======
+file4.txt is edited
+>>>>>>> parent of 7ff1a23... file4 only is replaced
